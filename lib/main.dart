@@ -52,7 +52,7 @@ class GitHubIntroScreen extends StatelessWidget{
             ),
           ),
           const SizedBox(width: 10,),
-            Text('Main Branch Changes',
+            Text('Introduction GitHub',
             style: TextStyle(
                 fontSize: 22,
                 fontWeight: FontWeight.bold,
