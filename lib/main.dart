@@ -52,7 +52,7 @@ class GitHubIntroScreen extends StatelessWidget{
             ),
           ),
           const SizedBox(width: 10,),
-            Text('Introduction GitHub',
+            Text('Craft Via Danish',
             style: TextStyle(
                 fontSize: 22,
                 fontWeight: FontWeight.bold,
